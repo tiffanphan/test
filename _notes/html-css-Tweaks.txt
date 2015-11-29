@@ -1,0 +1,8 @@
+1. products on page 1 squishing together when scaling down resolution.
+2. Nav for mobile hidden behind slider on homepage.
+3. Ideally instead of a dropdown, use a hamburger icon for mobile nav (not a priority)
+4. check all products sitewide for mobile resolution.
+5. slider should dissappear under a certain resolution(may fix hidden nav issue)
+6. lorem ipsum text needs to be filled in on products page, home page, and other pages sitewide.
+7. HD quality images at least 1920 width need to be put in the slider on the homepage.
+8. get table data formated correctly on admin.php and hide overflow past a certain width.
